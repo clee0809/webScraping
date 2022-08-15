@@ -12,7 +12,7 @@ import csv
 
 
 URL = 'https://www.audible.com/search?keywords=book&node=18573211011'
-# URL = 'https://www.audible.com/search?keywords=book&node=18573211011&pageSize=50&page=9'
+# URL = 'https://www.audible.com/search?keywords=book&node=18573211011&pageSize=50&page=11'
 
 # chrome driver
 driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()))
